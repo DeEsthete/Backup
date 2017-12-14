@@ -1,0 +1,9 @@
+C:\Users\djoni\source\repos\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\Backup\Backup\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\Backup\Backup\bin\Debug\Backup.exe.config
+C:\Users\djoni\source\repos\Backup\Backup\bin\Debug\Backup.exe
+C:\Users\djoni\source\repos\Backup\Backup\bin\Debug\Backup.pdb
+C:\Users\djoni\source\repos\Backup\Backup\bin\Debug\ClassLibrary.dll
+C:\Users\djoni\source\repos\Backup\Backup\bin\Debug\ClassLibrary.pdb
+C:\Users\djoni\source\repos\Backup\Backup\obj\Debug\Backup.exe
+C:\Users\djoni\source\repos\Backup\Backup\obj\Debug\Backup.pdb
